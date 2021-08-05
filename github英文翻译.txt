@@ -1,4 +1,5 @@
 commit 提交
 fetch 拿来
-push
-pull
+push 提交
+pull 拉取
+amend 修正
