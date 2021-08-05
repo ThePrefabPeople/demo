@@ -1,2 +1,4 @@
 commit 提交
 fetch 拿来
+push
+pull
